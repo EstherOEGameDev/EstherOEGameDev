@@ -84,21 +84,7 @@ Features:
 
 ---
 
-# 📚 Currently Learning
 
-- Multiplayer networking
-- Advanced gameplay architecture
-- Mobile optimization
-- Live-service game systems
-- Unity performance profiling
-
----
-
-# 🌍 Location
-
-Lagos, Nigeria
-
----
 
 # 📫 Connect With Me
 
