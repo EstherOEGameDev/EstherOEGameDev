@@ -1,4 +1,4 @@
-# Hi, I'm Esther 👋
+# Hi, I'm Esther 
 
 Unity Gameplay Developer focused on building multiplayer, mobile, and gameplay-driven experiences using Unity and C#.
 
@@ -12,7 +12,7 @@ I enjoy creating:
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 - Multiplayer gameplay systems
 - Casual mobile games
@@ -23,7 +23,7 @@ I enjoy creating:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Game Development
 - Unity (2D/3D)
@@ -45,7 +45,7 @@ I enjoy creating:
 
 ---
 
-# 🎮 Featured Projects
+#  Featured Projects
 
 ## Egg Rush Arena
 2D multiplayer casual arena game built with Unity and Photon PUN 2.
@@ -86,7 +86,7 @@ Features:
 
 
 
-# 📫 Connect With Me
+#  Connect With Me
 
 LinkedIn:
 https://www.linkedin.com/in/estheroepelle
